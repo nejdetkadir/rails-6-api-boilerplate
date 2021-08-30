@@ -20,6 +20,7 @@ gem 'devise', github: 'heartcombo/devise', branch: 'master'
 gem 'devise-jwt'
 
 gem 'ruby-progressbar'
+gem 'searchkick'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
