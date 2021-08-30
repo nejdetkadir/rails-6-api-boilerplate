@@ -1,4 +1,12 @@
 GIT
+  remote: https://github.com/faker-ruby/faker.git
+  revision: 4767edc5a11215ff2c023b582d1cb14ffe4e276b
+  branch: master
+  specs:
+    faker (2.19.0)
+      i18n (>= 1.6, < 2)
+
+GIT
   remote: https://github.com/heartcombo/devise.git
   revision: c82e4cf47b02002b2fd7ca31d441cf1043fc634c
   branch: master
@@ -189,6 +197,7 @@ DEPENDENCIES
   byebug
   devise!
   devise-jwt
+  faker!
   listen (~> 3.3)
   pg (~> 1.1)
   puma (~> 5.0)
