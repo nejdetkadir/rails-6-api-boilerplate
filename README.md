@@ -6,7 +6,11 @@ A starter template for [Ruby on Rails API](https://guides.rubyonrails.org/api_ap
 # Features
 - Installed Gems
   - [devise](https://github.com/heartcombo/devise) with [devise-jwt](https://github.com/waiting-for-dev/devise-jwt) authenticatable
- 
+  - [faker](https://github.com/faker-ruby/faker)
+  - [searchkick](https://github.com/ankane/searchkick)
+  - [ruby-progressbar](https://github.com/jfelchner/ruby-progressbar)
+  - [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
+  - [minimagick](https://github.com/minimagick/minimagick)
 
 # Installation
 ## Prerequisites
