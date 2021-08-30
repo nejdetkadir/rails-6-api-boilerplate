@@ -21,11 +21,12 @@ gem 'devise-jwt'
 
 gem 'ruby-progressbar'
 gem 'searchkick'
-gem "pundit"
+gem 'pundit'
+gem 'rails-settings-cached'
 
 # image processing
 gem 'carrierwave', '~> 2.0'
-gem "mini_magick"
+gem 'mini_magick'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'

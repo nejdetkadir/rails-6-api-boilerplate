@@ -200,6 +200,8 @@ GEM
       nokogiri (>= 1.6)
     rails-html-sanitizer (1.4.2)
       loofah (~> 2.3)
+    rails-settings-cached (2.7.1)
+      rails (>= 5.0.0)
     railties (6.1.4.1)
       actionpack (= 6.1.4.1)
       activesupport (= 6.1.4.1)
@@ -262,6 +264,7 @@ DEPENDENCIES
   pundit
   rack-cors
   rails (~> 6.1.4, >= 6.1.4.1)
+  rails-settings-cached
   ruby-progressbar
   searchkick
   spring
