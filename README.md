@@ -12,6 +12,7 @@ A starter template for [Ruby on Rails API](https://guides.rubyonrails.org/api_ap
   - [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
   - [minimagick](https://github.com/minimagick/minimagick)
   - [pundit](https://github.com/varvet/pundit)
+  - [rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)
 
 # Installation
 ## Prerequisites
