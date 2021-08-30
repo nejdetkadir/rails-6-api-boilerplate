@@ -3,11 +3,15 @@
 # Rails API Boilerplate
 A starter template for [Ruby on Rails API](https://guides.rubyonrails.org/api_app.html)
 
+# Features
+- Installed Gems
+  - [devise](https://github.com/heartcombo/devise) with [devise-jwt](https://github.com/waiting-for-dev/devise-jwt) authenticatable
+ 
+
 # Installation
 ## Prerequisites
 - [Ruby](https://rvm.io/)
 - [NodeJS (>=10.x)](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
-- [Yarn](https://yarnpkg.com/lang/en/docs/install/#debian-stable)
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [ImageMagick](https://imagemagick.org/) `sudo apt-get install imagemagick libmagickcore-dev libmagickwand-dev`
 
@@ -16,12 +20,6 @@ A starter template for [Ruby on Rails API](https://guides.rubyonrails.org/api_ap
 
   ```bash
   bundle install
-  ```
-
-- Install asset dependencies:
-
-  ```bash
-  yarn install
   ```
 
 - Create database, migrate tables and run the seed data:
