@@ -13,6 +13,7 @@ A starter template for [Ruby on Rails API](https://guides.rubyonrails.org/api_ap
   - [minimagick](https://github.com/minimagick/minimagick)
   - [pundit](https://github.com/varvet/pundit)
   - [rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)
+  - [whenever](https://github.com/javan/whenever)
 
 # Installation
 ## Prerequisites

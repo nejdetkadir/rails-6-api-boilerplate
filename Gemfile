@@ -23,6 +23,7 @@ gem 'ruby-progressbar'
 gem 'searchkick'
 gem 'pundit'
 gem 'rails-settings-cached'
+gem 'whenever', require: false
 
 # image processing
 gem 'carrierwave', '~> 2.0'
