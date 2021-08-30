@@ -11,6 +11,7 @@ A starter template for [Ruby on Rails API](https://guides.rubyonrails.org/api_ap
   - [ruby-progressbar](https://github.com/jfelchner/ruby-progressbar)
   - [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
   - [minimagick](https://github.com/minimagick/minimagick)
+  - [pundit](https://github.com/varvet/pundit)
 
 # Installation
 ## Prerequisites

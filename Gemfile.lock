@@ -172,6 +172,8 @@ GEM
     public_suffix (4.0.6)
     puma (5.4.0)
       nio4r (~> 2.0)
+    pundit (2.1.1)
+      activesupport (>= 3.0.0)
     racc (1.5.2)
     rack (2.2.3)
     rack-cors (1.1.1)
@@ -257,6 +259,7 @@ DEPENDENCIES
   mini_magick
   pg (~> 1.1)
   puma (~> 5.0)
+  pundit
   rack-cors
   rails (~> 6.1.4, >= 6.1.4.1)
   ruby-progressbar

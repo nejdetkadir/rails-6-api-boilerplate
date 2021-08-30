@@ -21,6 +21,7 @@ gem 'devise-jwt'
 
 gem 'ruby-progressbar'
 gem 'searchkick'
+gem "pundit"
 
 # image processing
 gem 'carrierwave', '~> 2.0'
